@@ -14,3 +14,5 @@ Pytorch version 0.4.1
 
 CUDA version 8 or above
 
+Jupyter notebook
+
