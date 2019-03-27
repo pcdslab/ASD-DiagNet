@@ -21,31 +21,31 @@ Please provide the parameters in the first cell of Jupyter notebook as follows:
 
 Atlas name: ("cc200", "aal", or "dosenbach160")
 
-p_ROI = "cc200"
+  p_ROI = "cc200"
 
 
 Number of k for k-fold cross-validation:
 
-p_fold = 10
+  p_fold = 10
 
 
 Classification mode: ("whole" or "percenter")
 
-p_mode = "percenter"
+  p_mode = "percenter"
 
 
 Name of the center: (in case of performing per-center classification)
 
-p_center = "Stanford"
+  p_center = "Stanford"
 
 
 Classification method: ("ASD-DiagNet", "rf" or "SVM))
 
-p_Method = "ASD-DiagNet"
+  p_Method = "ASD-DiagNet"
 
 
 Utilizing augmentation technique: (in case of using ASD-DiagNet, True or False)
 
-p_augmentation = False
+  p_augmentation = False
 
 
