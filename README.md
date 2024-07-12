@@ -47,5 +47,5 @@ Please provide the parameters in the first cell of Jupyter notebook as follows:
   e.g. `p_augmentation = False`
   
 
-In case of any questions please contact: taban.eslami@wmich.edu
+In case of any questions please contact: fsaeed@fiu.edu
 
