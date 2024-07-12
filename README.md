@@ -3,7 +3,7 @@ This repository contains the implementation of ASD-DiagNet algorithm.
 
 ## Research article 
 Please cite the following paper if you use our work: 
-Taban Eslami, Fahad Saeed, Vahid Mirjalili, Alvis Fong and Angela Laird (2019) **ASD-DiagNet: A hybrid learning approach for detection of Autism Spectrum Disorder using fMRI data**, Frontiers in Neuroinformatics, 13 (2019): 70. [Paper link] (https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00070/full)
+Taban Eslami, Fahad Saeed, Vahid Mirjalili, Alvis Fong and Angela Laird (2019) **ASD-DiagNet: A hybrid learning approach for detection of Autism Spectrum Disorder using fMRI data**, Frontiers in Neuroinformatics, 13 (2019): 70. [Paper link](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00070/full)
 
 ## Enviroment Setup
 ### Hardware requirements
